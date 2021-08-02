@@ -1,5 +1,7 @@
 # Lukah's Island Survival Challenge
 
+**WORK IN PROGRESS, Not All Files Are Here Yet!!!**
+
 ## Map
 [Lukah's Island](https://farming-simulator.com/mod.php?lang=en&country=fi&mod_id=201911) of Course!
 
