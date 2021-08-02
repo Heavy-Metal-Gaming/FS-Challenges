@@ -8,7 +8,7 @@ All challenges in this repository are licensed under the [CC0 1.0 Universal lice
 Browse into the sub folder of the challenge you wish to try. Download any required files. Follow instructions in the readme.
 
 # How to contribute
-As with translations, the basic procedure to follow is to fork, branch, make changes, create a PR. Follow this [GitFlow Document](https://guides.github.com/introduction/flow/). More detailed instructions can be found in CONTRIBUTING.md
+As with translations, the basic procedure to follow is to fork, branch, make changes, create a PR. Follow this [GitFlow Document](https://guides.github.com/introduction/flow/). More detailed instructions can be found in [CONTRIBUTING.md](CONTRIBUTING.md)
 
 # How much does this cost me?
 Nothing. Zero. Zilch. Nada.
