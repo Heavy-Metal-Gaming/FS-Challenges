@@ -1,12 +1,12 @@
 # Lukah's Island Survival Challenge
 
 ## Map
-Lukah's Island of Course!
+[Lukah's Island](https://farming-simulator.com/mod.php?lang=en&country=fi&mod_id=201911) of Course!
 
 ## Mods
 A lot. All can be found on either the official ModHub or fs19.net - with
 most or all of the ones from the latter site also being available on
-modhub.us if you prefer that site.
+modhub.us if you prefer that site. See the [Mods List](##-mods-list) section.
 
 ## Goal
 
@@ -42,3 +42,11 @@ chickens.
 
 ## Platform Support
 Computer Only, due to the mods used and being started from a savegame.
+
+## Credits
+Challenge by [Heavy Metal Gaming (Dylan-M)](https://github.com/Dylan-M)
+Map by Cazz64, Old Aussie Gamer
+Mods by a large number of people, see the credits on each mod on the Mod website it gets downloaded from
+
+## Mods List
+-- Coming Soon --
