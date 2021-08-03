@@ -1,0 +1,7 @@
+﻿<economy>
+    <greatDemands>
+        <greatDemand itemId="14" fillTypeName="BARLEY" demandMultiplier="1.100000" demandStartDay="10" demandStartHour="8" demandDuration="18" isRunning="false" isValid="true"/>
+        <greatDemand itemId="17" fillTypeName="EGG" demandMultiplier="1.300000" demandStartDay="6" demandStartHour="18" demandDuration="18" isRunning="false" isValid="true"/>
+        <greatDemand itemId="107" fillTypeName="WOODCHIPS" demandMultiplier="1.200000" demandStartDay="7" demandStartHour="10" demandDuration="18" isRunning="false" isValid="true"/>
+    </greatDemands>
+</economy>

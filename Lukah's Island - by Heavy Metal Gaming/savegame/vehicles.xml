@@ -1,0 +1,1733 @@
+﻿<vehicles>
+    <vehicle id="1" modName="FS19_Farm_Trailer" filename="$moddir$FS19_Farm_Trailer/Farm_Trailer.xml" isAbsolute="true" age="5.000000" price="22800.000000" farmId="1" propertyState="1" operatingTime="490.802246">
+        <component1 position="394.0598 23.1808 -162.0202" rotation="-0.7151 -1.6961 -0.0006"/>
+        <component2 position="394.0092 23.4575 -160.3108" rotation="-0.7154 -1.6959 0.0109"/>
+        <configuration name="cover" id="1"/>
+        <configuration name="rimColor" id="1"/>
+        <configuration name="motor" id="2"/>
+        <configuration name="tensionBelts" id="1"/>
+        <configuration name="attacherJoint" id="2"/>
+        <configuration name="vehicleType" id="1"/>
+        <configuration name="fillVolume" id="3"/>
+        <configuration name="trailer" id="2"/>
+        <configuration name="baseMaterial" id="57"/>
+        <configuration name="fillUnit" id="3"/>
+        <configuration name="wheel" id="2"/>
+        <boughtConfiguration name="cover" id="1"/>
+        <boughtConfiguration name="vehicleType" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="trailer" id="2"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="attacherJoint" id="1"/>
+        <boughtConfiguration name="attacherJoint" id="2"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="wheel" id="2"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillVolume" id="3"/>
+        <boughtConfiguration name="baseMaterial" id="57"/>
+        <boughtConfiguration name="baseMaterial" id="55"/>
+        <boughtConfiguration name="rimColor" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="3"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="motor" id="2"/>
+        <washable>
+            <dirtNode amount="0.011192"/>
+            <dirtNode amount="0.011192"/>
+            <dirtNode amount="0.011192"/>
+            <dirtNode amount="0.011192"/>
+            <dirtNode amount="0.011192"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.004197"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="119.561165"/>
+            <unit index="2" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="50.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <trailer tipSideIndex="1"/>
+        <tensionBelts>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+        </tensionBelts>
+        <foldable foldAnimTime="0.000000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.004090"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.198590" g="0.138980" b="0.079410" curIndex="0" prevIndex="0"/>
+            <wheel1 r="0.194360" g="0.135920" b="0.077640" curIndex="0" prevIndex="0"/>
+            <wheel2 r="0.194360" g="0.135920" b="0.077640" curIndex="0" prevIndex="0"/>
+            <wheel3 r="0.194360" g="0.135920" b="0.077640" curIndex="0" prevIndex="0"/>
+            <wheel4 r="0.194360" g="0.135920" b="0.077640" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="2" modName="CSS_JohnDeere_80_series_old" filename="$moddir$CSS_JohnDeere_80_series_old/830PonyStart.xml" isAbsolute="true" age="5.000000" price="4800.000000" farmId="1" propertyState="1" operatingTime="804.204468">
+        <component1 position="385.6847 26.4380 52.3589" rotation="1.0371 10.7807 -2.3017"/>
+        <component2 position="385.9821 26.9729 53.8070" rotation="1.0212 10.7809 -2.3225"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <washable>
+            <dirtNode amount="0.041448"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.006341"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="123.000000"/>
+            <unit index="2" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="35.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.006702"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.000000" g="0.000000" b="0.000000" curIndex="0" prevIndex="0"/>
+            <wheel1 r="0.059000" g="0.038000" b="0.021000" curIndex="0" prevIndex="0"/>
+            <wheel2 r="0.059000" g="0.038000" b="0.021000" curIndex="0" prevIndex="0"/>
+            <wheel3 r="0.059000" g="0.038000" b="0.021000" curIndex="0" prevIndex="0"/>
+            <wheel4 r="0.059000" g="0.038000" b="0.021000" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="3" modName="FS19_JohnDeere_4020" filename="$moddir$FS19_JohnDeere_4020/JD4000.xml" isAbsolute="true" age="5.000000" price="12045.000000" farmId="1" propertyState="1" operatingTime="1677229184.000000">
+        <component1 position="853.9453 23.3653 365.0202" rotation="10.2882 -31.2763 -17.1777"/>
+        <component2 position="853.3089 24.0842 366.3705" rotation="10.6108 -31.1779 -17.8003"/>
+        <configuration name="design" id="4"/>
+        <configuration name="wheel" id="5"/>
+        <configuration name="vehicleType" id="4"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="frontloader" id="1"/>
+        <boughtConfiguration name="design" id="1"/>
+        <boughtConfiguration name="design" id="4"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="vehicleType" id="1"/>
+        <boughtConfiguration name="vehicleType" id="4"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="wheel" id="5"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="frontloader" id="1"/>
+        <washable>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="1.000000"/>
+        </wearable>
+        <cylindered>
+            <movingTool rotation="0.000000"/>
+            <movingTool rotation="0.000000"/>
+        </cylindered>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="127.715462"/>
+        </fillUnit>
+        <drivable cruiseControl="34.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="1.000000"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.000000" g="0.000000" b="0.000000" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="4" modName="fs19_McCormick_Deering_15_30_early" filename="$moddir$fs19_McCormick_Deering_15_30_early/farmall_W9.xml" isAbsolute="true" age="5.000000" price="950.000000" farmId="1" propertyState="1" operatingTime="154.642487">
+        <component1 position="389.4779 22.9635 -162.4615" rotation="2.7709 1.0816 -0.0695"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <washable>
+            <dirtNode amount="0.017066"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002525"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="135.102081"/>
+        </fillUnit>
+        <drivable cruiseControl="24.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.001289"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.000000" g="0.000000" b="0.000000" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="5" modName="FS19_Oliver55" filename="$moddir$FS19_Oliver55/OliverWide.xml" isAbsolute="true" age="5.000000" price="8000.000000" farmId="1" propertyState="1" operatingTime="246834176.000000">
+        <component1 position="166.5735 21.9897 -363.0638" rotation="-0.4337 35.8303 -0.0032"/>
+        <component2 position="167.5664 23.0046 -361.6887" rotation="-0.4340 35.8303 -0.0032"/>
+        <configuration name="design" id="1"/>
+        <configuration name="motor" id="4"/>
+        <configuration name="vehicleType" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="frontloader" id="3"/>
+        <boughtConfiguration name="design" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="motor" id="4"/>
+        <boughtConfiguration name="vehicleType" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="frontloader" id="1"/>
+        <boughtConfiguration name="frontloader" id="3"/>
+        <washable>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="1.000000"/>
+        </wearable>
+        <cylindered>
+            <movingTool rotation="0.000000"/>
+        </cylindered>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="419.815338"/>
+        </fillUnit>
+        <drivable cruiseControl="35.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="1.000000"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.168650" g="0.117321" b="0.066882" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="6" modName="FS19_rsmNivaSk5" filename="$moddir$FS19_rsmNivaSk5/rsmNivaSK5.xml" isAbsolute="true" age="5.000000" price="53800.000000" farmId="1" propertyState="1" operatingTime="180000128.000000">
+        <component1 position="-336.6795 22.8815 -46.3220" rotation="179.8389 -45.0592 179.9589"/>
+        <component2 position="-335.4349 23.4156 -45.0804" rotation="179.8246 -45.0592 179.9791"/>
+        <configuration name="chopperEquipmentNivaSK" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="rimColor" id="6"/>
+        <configuration name="design" id="8"/>
+        <configuration name="decalsNivaSKMaterial" id="3"/>
+        <configuration name="bodyNivaSKMaterial" id="5"/>
+        <configuration name="attacherJoint" id="2"/>
+        <configuration name="shieldsNivaSK" id="1"/>
+        <configuration name="latticeNivaSK" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="yearNivaSK" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="cabinNivaSKMaterial" id="2"/>
+        <boughtConfiguration name="chopperEquipmentNivaSK" id="1"/>
+        <boughtConfiguration name="design" id="1"/>
+        <boughtConfiguration name="design" id="8"/>
+        <boughtConfiguration name="rimColor" id="1"/>
+        <boughtConfiguration name="rimColor" id="6"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="decalsNivaSKMaterial" id="1"/>
+        <boughtConfiguration name="decalsNivaSKMaterial" id="3"/>
+        <boughtConfiguration name="attacherJoint" id="1"/>
+        <boughtConfiguration name="attacherJoint" id="2"/>
+        <boughtConfiguration name="shieldsNivaSK" id="1"/>
+        <boughtConfiguration name="bodyNivaSKMaterial" id="1"/>
+        <boughtConfiguration name="bodyNivaSKMaterial" id="5"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="latticeNivaSK" id="1"/>
+        <boughtConfiguration name="yearNivaSK" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="cabinNivaSKMaterial" id="1"/>
+        <boughtConfiguration name="cabinNivaSKMaterial" id="2"/>
+        <washable>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="1.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="WHEAT" fillLevel="3000.000000"/>
+            <unit index="2" fillType="DIESEL" fillLevel="299.389160"/>
+        </fillUnit>
+        <drivable cruiseControl="25.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <combine isSwathActive="true" workedHectars="0.000000"/>
+        <pipe state="1"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="1.000000"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.078299" g="0.051960" b="0.029075" curIndex="0" prevIndex="0"/>
+            <wheel1 r="0.064957" g="0.042309" b="0.023492" curIndex="0" prevIndex="0"/>
+            <wheel2 r="0.064983" g="0.042328" b="0.023504" curIndex="0" prevIndex="0"/>
+            <wheel3 r="0.068152" g="0.044621" b="0.024830" curIndex="0" prevIndex="0"/>
+            <wheel4 r="0.068222" g="0.044671" b="0.024859" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="7" modName="FS19_2PTS_6A" filename="$moddir$FS19_2PTS_6A/2PTS_6A.xml" isAbsolute="true" age="5.000000" price="4500.000000" farmId="1" propertyState="1" operatingTime="239.797699">
+        <component1 position="361.4091 20.4707 -727.3685" rotation="-11.2397 -58.2281 14.4215"/>
+        <component2 position="359.8338 21.4844 -726.5797" rotation="-9.1573 -56.7283 13.1623"/>
+        <component3 position="359.2279 21.2010 -726.1503" rotation="-2.4620 -56.7285 13.1624"/>
+        <configuration name="cover" id="1"/>
+        <configuration name="rimColor" id="1"/>
+        <configuration name="trailer" id="2"/>
+        <configuration name="tensionBelts" id="1"/>
+        <configuration name="baseMaterial" id="1"/>
+        <configuration name="fillVolume" id="2"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="design" id="1"/>
+        <configuration name="fillUnit" id="3"/>
+        <configuration name="designMaterial" id="1"/>
+        <boughtConfiguration name="cover" id="1"/>
+        <boughtConfiguration name="rimColor" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="trailer" id="2"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillVolume" id="2"/>
+        <boughtConfiguration name="design" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="3"/>
+        <boughtConfiguration name="designMaterial" id="1"/>
+        <washable>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="1.000000"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <trailer tipSideIndex="1"/>
+        <bulkFill isEnabled="true" isSelectEnabled="true"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.001998"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.199894" g="0.139924" b="0.079956" curIndex="0" prevIndex="0"/>
+            <wheel1 r="0.199898" g="0.139926" b="0.079957" curIndex="0" prevIndex="0"/>
+            <wheel2 r="0.199900" g="0.139928" b="0.079958" curIndex="0" prevIndex="0"/>
+            <wheel3 r="0.199898" g="0.139926" b="0.079957" curIndex="0" prevIndex="0"/>
+            <wheel4 r="0.199900" g="0.139927" b="0.079958" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="8" modName="FS19_2PTS_6A" filename="$moddir$FS19_2PTS_6A/2PTS_6A.xml" isAbsolute="true" age="5.000000" price="4500.000000" farmId="1" propertyState="1" operatingTime="141.993546">
+        <component1 position="366.7461 20.5595 -730.4856" rotation="-15.8304 -61.2638 17.4698"/>
+        <component2 position="365.1421 21.6165 -729.8207" rotation="-14.5923 -57.3003 16.8708"/>
+        <component3 position="364.5223 21.3625 -729.3927" rotation="-16.1507 -57.3003 16.8709"/>
+        <configuration name="cover" id="1"/>
+        <configuration name="rimColor" id="1"/>
+        <configuration name="design" id="1"/>
+        <configuration name="tensionBelts" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="baseMaterial" id="1"/>
+        <configuration name="trailer" id="2"/>
+        <configuration name="fillVolume" id="2"/>
+        <configuration name="fillUnit" id="3"/>
+        <configuration name="designMaterial" id="1"/>
+        <boughtConfiguration name="cover" id="1"/>
+        <boughtConfiguration name="rimColor" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="trailer" id="2"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillVolume" id="2"/>
+        <boughtConfiguration name="design" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="3"/>
+        <boughtConfiguration name="designMaterial" id="1"/>
+        <washable>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="1.000000"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <trailer tipSideIndex="1"/>
+        <bulkFill isEnabled="true" isSelectEnabled="true"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.001183"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.094683" g="0.063814" b="0.035931" curIndex="0" prevIndex="0"/>
+            <wheel1 r="0.108238" g="0.073619" b="0.041603" curIndex="0" prevIndex="0"/>
+            <wheel2 r="0.098901" g="0.066864" b="0.037696" curIndex="0" prevIndex="0"/>
+            <wheel3 r="0.099719" g="0.067456" b="0.038038" curIndex="0" prevIndex="0"/>
+            <wheel4 r="0.118033" g="0.080705" b="0.045702" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="9" modName="FS19_ulep" filename="$moddir$FS19_ulep/ulepX69.xml" isAbsolute="true" age="5.000000" price="8550.000000" farmId="1" propertyState="1" operatingTime="140.312195">
+        <component1 position="400.9203 23.0033 -161.7805" rotation="1.3124 -0.8918 0.1059"/>
+        <configuration name="rimColor" id="1"/>
+        <configuration name="wheel" id="2"/>
+        <configuration name="tensionBelts" id="1"/>
+        <configuration name="folding" id="1"/>
+        <configuration name="baseMaterial" id="46"/>
+        <configuration name="fillVolume" id="2"/>
+        <configuration name="trailer" id="1"/>
+        <configuration name="fillUnit" id="2"/>
+        <configuration name="designMaterial" id="1"/>
+        <boughtConfiguration name="rimColor" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="wheel" id="2"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="folding" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillVolume" id="2"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="46"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="2"/>
+        <boughtConfiguration name="designMaterial" id="1"/>
+        <washable>
+            <dirtNode amount="0.004807"/>
+            <dirtNode amount="0.004807"/>
+            <dirtNode amount="0.004807"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001803"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <trailer tipSideIndex="1"/>
+        <bulkFill isEnabled="true" isSelectEnabled="true"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.001169"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.198590" g="0.138980" b="0.079410" curIndex="0" prevIndex="0"/>
+            <wheel1 r="0.194360" g="0.135920" b="0.077640" curIndex="0" prevIndex="0"/>
+            <wheel2 r="0.194360" g="0.135920" b="0.077640" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="10" modName="Don_1500_B_KR" filename="$moddir$Don_1500_B_KR/Cutter_JU6.xml" isAbsolute="true" age="5.000000" price="3500.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-104.9730 28.3052 81.4197" rotation="-47.3986 83.5153 -49.7866"/>
+        <washable>
+            <dirtNode amount="0.002017"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000605"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.000000"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.000000" g="0.000000" b="0.000000" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="11" modName="FS19_rsmNivaSk5" filename="$moddir$FS19_rsmNivaSk5/zhze5.xml" isAbsolute="true" age="5.000000" price="18300.000000" farmId="1" propertyState="1" operatingTime="188.349075">
+        <component1 position="-339.5758 23.9674 -49.2499" rotation="164.8429 -45.0592 179.9589"/>
+        <configuration name="bodyNivaSKMaterial" id="5"/>
+        <configuration name="design" id="1"/>
+        <configuration name="reelNivaSK" id="3"/>
+        <configuration name="shieldsNivaSK" id="1"/>
+        <boughtConfiguration name="bodyNivaSKMaterial" id="1"/>
+        <boughtConfiguration name="bodyNivaSKMaterial" id="5"/>
+        <boughtConfiguration name="design" id="1"/>
+        <boughtConfiguration name="reelNivaSK" id="1"/>
+        <boughtConfiguration name="reelNivaSK" id="3"/>
+        <boughtConfiguration name="shieldsNivaSK" id="1"/>
+        <washable>
+            <dirtNode amount="1.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="1.000000"/>
+        </wearable>
+        <cylindered>
+            <movingTool rotation="0.000000"/>
+            <movingTool translation="0.000000"/>
+        </cylindered>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.001570"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.077912" g="0.051681" b="0.028913" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="12" modName="FS19_rsmNivaSk5" filename="$moddir$FS19_rsmNivaSk5/ppk4.xml" isAbsolute="true" age="5.000000" price="17000.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-115.1455 25.1585 -296.4688" rotation="47.1489 83.9786 -99.0596"/>
+        <configuration name="bodyNivaSKMaterial" id="6"/>
+        <configuration name="decalsNivaSKMaterial" id="4"/>
+        <configuration name="ppkNivaMaterial" id="2"/>
+        <boughtConfiguration name="bodyNivaSKMaterial" id="1"/>
+        <boughtConfiguration name="bodyNivaSKMaterial" id="6"/>
+        <boughtConfiguration name="decalsNivaSKMaterial" id="1"/>
+        <boughtConfiguration name="decalsNivaSKMaterial" id="4"/>
+        <boughtConfiguration name="ppkNivaMaterial" id="1"/>
+        <boughtConfiguration name="ppkNivaMaterial" id="2"/>
+        <washable>
+            <dirtNode amount="0.006864"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002403"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.000000"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.063355" g="0.041151" b="0.022822" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="13" modName="FS19_PolishPlowsPack" filename="$moddir$FS19_PolishPlowsPack/U085.xml" isAbsolute="true" age="5.000000" price="5470.000000" farmId="1" propertyState="1" operatingTime="45.331223">
+        <component1 position="-119.0332 29.0802 -2.7839" rotation="178.9623 41.2083 178.9816"/>
+        <configuration name="baseMaterial" id="4"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="4"/>
+        <washable>
+            <dirtNode amount="0.001711"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001026"/>
+        </wearable>
+        <attachable lowerAnimTime="0.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <plow rotationMax="false"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.000378"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.198590" g="0.138980" b="0.079410" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="14" modName="Don_1500_B_KR" filename="$moddir$Don_1500_B_KR/psp10.xml" isAbsolute="true" age="5.000000" price="2000.000000" farmId="1" propertyState="1" operatingTime="301.723724">
+        <component1 position="-233.0090 22.5194 -307.1598" rotation="3.9767 65.2975 -0.4027"/>
+        <washable>
+            <dirtNode amount="0.013630"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.004056"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.002514"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.000000" g="0.000000" b="0.000000" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="15" modName="Chevrolet_COE_1941" filename="$moddir$Chevrolet_COE_1941/coe.xml" isAbsolute="true" age="5.000000" price="500.000000" farmId="1" propertyState="1" operatingTime="87.053688">
+        <component1 position="-53.6705 21.4351 -205.9723" rotation="-28.2111 72.5341 -22.1164"/>
+        <configuration name="wheel" id="2"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="wheel" id="2"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <washable>
+            <dirtNode amount="0.003239"/>
+            <dirtNode amount="0.003239"/>
+            <dirtNode amount="0.003239"/>
+            <dirtNode amount="0.003239"/>
+            <dirtNode amount="0.003239"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000972"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="119.947083"/>
+        </fillUnit>
+        <drivable cruiseControl="83.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <tensionBelts>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+        </tensionBelts>
+        <foldable foldAnimTime="1.000000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.000725"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.198590" g="0.138980" b="0.079410" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="16" modName="FS19_TrailedLifter" filename="$moddir$FS19_TrailedLifter/trailedLifter.xml" isAbsolute="true" age="5.000000" price="7800.000000" farmId="1" propertyState="1" operatingTime="760.550659">
+        <component1 position="385.1374 26.4063 49.0388" rotation="-1.5642 7.8129 -2.4721"/>
+        <configuration name="wheel" id="3"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="wheel" id="3"/>
+        <washable>
+            <dirtNode amount="0.022353"/>
+            <dirtNode amount="0.489333"/>
+            <dirtNode amount="0.622248"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.007697"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.006338"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.059000" g="0.038000" b="0.021000" curIndex="0" prevIndex="0"/>
+            <wheel1 r="0.059009" g="0.038006" b="0.021004" curIndex="0" prevIndex="0"/>
+            <wheel2 r="0.059003" g="0.038002" b="0.021002" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="17" modName="Fs19_SPC4" filename="$moddir$Fs19_SPC4/Spc4.xml" isAbsolute="true" age="5.000000" price="1000.000000" farmId="1" propertyState="1" operatingTime="104.809853">
+        <component1 position="243.2246 28.0845 396.1068" rotation="174.0276 -40.2321 -177.4861"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <washable>
+            <dirtNode amount="0.007931"/>
+            <dirtNode amount="0.007931"/>
+            <dirtNode amount="0.007931"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002072"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <ridgeMarker state="0"/>
+        <sowingMachine selectedSeedFruitType="MAIZE"/>
+        <bulkFill isEnabled="true" isSelectEnabled="true"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.000873"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.059001" g="0.038001" b="0.021000" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="18" modName="FS19_Isaria6000S" filename="$moddir$FS19_Isaria6000S/Isaria6000S.xml" isAbsolute="true" age="5.000000" price="7000.000000" farmId="1" propertyState="1" operatingTime="572.761108">
+        <component1 position="384.9323 27.2373 47.2918" rotation="5.3564 7.8181 -2.4650"/>
+        <component2 position="384.8123 27.3078 46.3962" rotation="-5.1439 7.8150 -2.4659"/>
+        <component3 position="383.7769 27.1470 46.5437" rotation="-4.7914 8.0964 0.8006"/>
+        <component4 position="384.8120 27.1028 46.4012" rotation="-4.7178 8.0937 0.8098"/>
+        <component5 position="385.8431 27.0583 46.2595" rotation="-4.7040 8.0933 0.7984"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="cover" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="cover" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.025599"/>
+            <dirtNode amount="0.042540"/>
+            <dirtNode amount="0.031084"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.008463"/>
+        </wearable>
+        <attachable lowerAnimTime="0.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="SEEDS" fillLevel="441.891693"/>
+        </fillUnit>
+        <cover state="0"/>
+        <ridgeMarker state="0"/>
+        <sowingMachine selectedSeedFruitType="WHEAT"/>
+        <bulkFill isEnabled="true" isSelectEnabled="true"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.004773"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.059000" g="0.038000" b="0.021000" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="19" modName="FS19_amazoneD8_60" filename="$moddir$FS19_amazoneD8_60/D8_60.xml" isAbsolute="true" age="5.000000" price="26000.000000" farmId="1" propertyState="1" operatingTime="191.622437">
+        <component1 position="855.7277 24.0462 362.5477" rotation="19.8528 -31.2763 -17.1777"/>
+        <component2 position="855.8845 25.0498 362.7889" rotation="55.4804 -31.2763 -17.1777"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="wheel" id="2"/>
+        <configuration name="cover" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="wheel" id="2"/>
+        <boughtConfiguration name="cover" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="1.000000"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <cover state="0"/>
+        <ridgeMarker state="0"/>
+        <sowingMachine selectedSeedFruitType="WHEAT"/>
+        <bulkFill isEnabled="true" isSelectEnabled="true"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.001597"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.181721" g="0.126777" b="0.072351" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="20" modName="FS19_MX_Frontloaders_And_Tools_Pack" filename="$moddir$FS19_MX_Frontloaders_And_Tools_Pack/vehicles/mx/t10/t10.xml" isAbsolute="true" age="5.000000" price="7560.000000" farmId="1" propertyState="1" operatingTime="324.517426">
+        <component1 position="167.3399 22.1625 -362.0160" rotation="-0.4337 35.8303 -0.0032"/>
+        <configuration name="attacherJoint" id="1"/>
+        <configuration name="baseMaterial" id="2"/>
+        <boughtConfiguration name="attacherJoint" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="2"/>
+        <washable>
+            <dirtNode amount="1.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="1.000000"/>
+        </wearable>
+        <cylindered>
+            <movingTool rotation="-0.197165"/>
+            <movingTool rotation="-0.147242"/>
+            <movingTool animationTime="0.000000"/>
+        </cylindered>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.002704"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.186783" g="0.130439" b="0.074470" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="21" modName="FS19_MX_Frontloaders_And_Tools_Pack" filename="$moddir$FS19_MX_Frontloaders_And_Tools_Pack/vehicles/mx/tr1650/tr1650.xml" isAbsolute="true" age="5.000000" price="1310.000000" farmId="1" propertyState="1" operatingTime="181.169189">
+        <component1 position="168.2067 22.4598 -360.8255" rotation="1.1332 35.8303 -0.0032"/>
+        <configuration name="design" id="1"/>
+        <configuration name="inputAttacherJoint" id="1"/>
+        <configuration name="baseMaterial" id="2"/>
+        <boughtConfiguration name="design" id="1"/>
+        <boughtConfiguration name="inputAttacherJoint" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="2"/>
+        <washable>
+            <dirtNode amount="1.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="1.000000"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.001510"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.158200" g="0.109761" b="0.062509" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="22" modName="FS19_MX_Frontloaders_And_Tools_Pack" filename="$moddir$FS19_MX_Frontloaders_And_Tools_Pack/vehicles/mx/bc250/bc250.xml" isAbsolute="true" age="5.000000" price="1950.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-75.8334 27.8046 96.4629" rotation="-12.3908 0.0026 -0.0000"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="inputAttacherJoint" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="baseMaterial" id="2"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="2"/>
+        <boughtConfiguration name="inputAttacherJoint" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.000431"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000162"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <bulkFill isEnabled="true" isSelectEnabled="true"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.000000"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.198590" g="0.138980" b="0.079410" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="23" modName="FS19_HTZ_T150" filename="$moddir$FS19_HTZ_T150/150_gus.xml" isAbsolute="true" age="5.000000" price="22307.000000" farmId="1" propertyState="1" operatingTime="204.606750">
+        <component1 position="249.3036 25.7371 206.5442" rotation="-179.6093 -34.3926 -179.9515"/>
+        <configuration name="conditioner" id="1"/>
+        <configuration name="vehicleType" id="5"/>
+        <configuration name="design" id="1"/>
+        <configuration name="attacherJoint" id="1"/>
+        <configuration name="batteryBox" id="1"/>
+        <configuration name="lightbar" id="2"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="baseMaterial" id="2"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="powerTakeOff" id="2"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="designMaterial" id="1"/>
+        <boughtConfiguration name="conditioner" id="1"/>
+        <boughtConfiguration name="vehicleType" id="1"/>
+        <boughtConfiguration name="vehicleType" id="5"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="batteryBox" id="1"/>
+        <boughtConfiguration name="lightbar" id="1"/>
+        <boughtConfiguration name="lightbar" id="2"/>
+        <boughtConfiguration name="attacherJoint" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="2"/>
+        <boughtConfiguration name="design" id="1"/>
+        <boughtConfiguration name="powerTakeOff" id="1"/>
+        <boughtConfiguration name="powerTakeOff" id="2"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="designMaterial" id="1"/>
+        <washable>
+            <dirtNode amount="0.012765"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.007075"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="313.463165"/>
+            <unit index="2" fillType="UNKNOWN" fillLevel="0.000000"/>
+            <unit index="3" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="20.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.001705"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.059000" g="0.038000" b="0.021000" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="24" modName="FS19_Used_Oliver_2255_MFWD" filename="$moddir$FS19_Used_Oliver_2255_MFWD/Oliver2255FWA.xml" isAbsolute="true" age="5.000000" price="18100.000000" farmId="1" propertyState="1" operatingTime="2449041408.000000">
+        <component1 position="355.9418 20.3258 -723.9869" rotation="-8.0597 -57.9717 10.0100"/>
+        <component2 position="354.9812 21.1123 -723.4804" rotation="-9.2044 -57.8651 11.3608"/>
+        <configuration name="motor" id="2"/>
+        <configuration name="wheel" id="3"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="design" id="3"/>
+        <boughtConfiguration name="design" id="1"/>
+        <boughtConfiguration name="design" id="3"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="wheel" id="3"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="motor" id="2"/>
+        <washable>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="1.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="113.036392"/>
+        </fillUnit>
+        <drivable cruiseControl="28.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="1.000000"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.000000" g="0.000000" b="0.000000" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="25" modName="FS19_barrelWeight600kg" filename="$moddir$FS19_barrelWeight600kg/barrelWeight.xml" isAbsolute="true" age="5.000000" price="330.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-71.0583 27.7822 96.2516" rotation="0.0000 7.9427 0.0001"/>
+        <configuration name="attacherJoint" id="2"/>
+        <configuration name="baseMaterial" id="6"/>
+        <boughtConfiguration name="attacherJoint" id="1"/>
+        <boughtConfiguration name="attacherJoint" id="2"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="6"/>
+        <washable>
+            <dirtNode amount="0.000566"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000212"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.000000"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.198590" g="0.138980" b="0.079410" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="26" modName="FS19_barrelWeight600kg" filename="$moddir$FS19_barrelWeight600kg/barrelWeight.xml" isAbsolute="true" age="5.000000" price="330.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="164.8008 22.7175 -365.5190" rotation="157.4338 -35.8303 179.9968"/>
+        <configuration name="attacherJoint" id="2"/>
+        <configuration name="baseMaterial" id="6"/>
+        <boughtConfiguration name="attacherJoint" id="1"/>
+        <boughtConfiguration name="attacherJoint" id="2"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="6"/>
+        <washable>
+            <dirtNode amount="0.005578"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001925"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.000000"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.059955" g="0.038691" b="0.021400" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="27" modName="FS19_Oliver_HG" filename="$moddir$FS19_Oliver_HG/oliver_HG.xml" isAbsolute="true" age="5.000000" price="3250.000000" farmId="1" propertyState="1" operatingTime="3481747456.000000">
+        <component1 position="-57.6305 27.6101 96.2587" rotation="-0.0075 -6.1698 -1.7624"/>
+        <component2 position="-57.5936 28.8095 96.2586" rotation="-0.0075 -6.1698 -1.7624"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <washable>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000311"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="45.387787"/>
+        </fillUnit>
+        <drivable cruiseControl="20.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="1.000000"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.199207" g="0.139426" b="0.079668" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="28" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/vehicles/lizard/vGrab/vGrab.xml" isAbsolute="true" age="5.000000" price="5000.000000" farmId="1" propertyState="1" operatingTime="55.467293">
+        <component1 position="243.5738 25.7734 197.8009" rotation="0.0001 1.2135 0.0000"/>
+        <configuration name="inputAttacherJoint" id="1"/>
+        <configuration name="baseMaterial" id="9"/>
+        <boughtConfiguration name="inputAttacherJoint" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="9"/>
+        <washable>
+            <dirtNode amount="0.002864"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000981"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.000462"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.063580" g="0.041313" b="0.022916" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="29" modName="FS19_JohnDeere690" filename="$moddir$FS19_JohnDeere690/JD690.xml" isAbsolute="true" age="5.000000" price="12000.000000" farmId="1" propertyState="1" operatingTime="177.903641">
+        <component1 position="450.4519 23.6963 43.4420" rotation="-179.2758 -13.0890 179.9632"/>
+        <component2 position="450.1338 24.1985 42.0721" rotation="-179.2753 -13.0890 179.9632"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <washable>
+            <dirtNode amount="0.008731"/>
+            <dirtNode amount="0.121974"/>
+            <dirtNode amount="0.118509"/>
+            <dirtNode amount="0.121725"/>
+            <dirtNode amount="0.118929"/>
+            <dirtNode amount="0.008731"/>
+            <dirtNode amount="0.008731"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.003172"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <baler numBales="0"/>
+        <varBaleCap baleCapacity="4000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.001483"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.068830" g="0.045111" b="0.025113" curIndex="0" prevIndex="0"/>
+            <wheel1 r="0.084681" g="0.056578" b="0.031746" curIndex="0" prevIndex="0"/>
+            <wheel2 r="0.099019" g="0.066950" b="0.037746" curIndex="0" prevIndex="0"/>
+            <wheel3 r="0.084693" g="0.056587" b="0.031751" curIndex="0" prevIndex="0"/>
+            <wheel4 r="0.097419" g="0.065792" b="0.037076" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="30" modName="FS19_OP2000" filename="$moddir$FS19_OP2000/OP2000.xml" isAbsolute="true" age="5.000000" price="7000.000000" farmId="1" propertyState="1" operatingTime="113.962646">
+        <component1 position="397.9648 23.3958 -160.4978" rotation="4.7786 1.4463 0.0007"/>
+        <configuration name="baseMaterial" id="3"/>
+        <configuration name="rimColor" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="designMaterial" id="12"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="3"/>
+        <boughtConfiguration name="rimColor" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="designMaterial" id="1"/>
+        <boughtConfiguration name="designMaterial" id="12"/>
+        <washable>
+            <dirtNode amount="0.003858"/>
+            <dirtNode amount="0.003858"/>
+            <dirtNode amount="0.003858"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001447"/>
+        </wearable>
+        <cylindered>
+            <movingTool animationTime="0.000000"/>
+        </cylindered>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <bulkFill isEnabled="true" isSelectEnabled="true"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.000950"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.198590" g="0.138980" b="0.079410" curIndex="0" prevIndex="0"/>
+            <wheel1 r="0.194360" g="0.135920" b="0.077640" curIndex="0" prevIndex="0"/>
+            <wheel2 r="0.194360" g="0.135920" b="0.077640" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="31" modName="FS19_RauchZSA580" filename="$moddir$FS19_RauchZSA580/ZSA580.xml" isAbsolute="true" age="5.000000" price="4200.000000" farmId="1" propertyState="1" operatingTime="159.556503">
+        <component1 position="408.3093 23.0032 -164.3882" rotation="0.3896 5.5675 0.2595"/>
+        <configuration name="attacherJoint" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="baseMaterial" id="4"/>
+        <boughtConfiguration name="attacherJoint" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="4"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.005410"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002029"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <bulkFill isEnabled="true" isSelectEnabled="true"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.001330"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.198590" g="0.138980" b="0.079410" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="32" modName="FS19_LizardN035" filename="$moddir$FS19_LizardN035/n035.xml" isAbsolute="true" age="5.000000" price="12200.000000" farmId="1" propertyState="1" operatingTime="236.157318">
+        <component1 position="252.1172 25.9196 -137.6299" rotation="-167.7452 -82.8637 170.2166"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="baseMaterial" id="39"/>
+        <configuration name="rimColor" id="1"/>
+        <configuration name="design" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="designMaterial" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="39"/>
+        <boughtConfiguration name="rimColor" id="1"/>
+        <boughtConfiguration name="design" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="designMaterial" id="1"/>
+        <washable>
+            <dirtNode amount="0.018534"/>
+            <dirtNode amount="0.891474"/>
+            <dirtNode amount="0.890817"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.009953"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="LIME" fillLevel="1267.820435"/>
+        </fillUnit>
+        <bulkFill isEnabled="true" isSelectEnabled="true"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.001968"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.061533" g="0.039833" b="0.022060" curIndex="0" prevIndex="0"/>
+            <wheel1 r="0.060796" g="0.039299" b="0.021752" curIndex="0" prevIndex="0"/>
+            <wheel2 r="0.060871" g="0.039354" b="0.021783" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="33" modName="FS19_EicherAG300" filename="$moddir$FS19_EicherAG300/eicherAG300.xml" isAbsolute="true" age="5.000000" price="1050.000000" farmId="1" propertyState="1" operatingTime="78.022148">
+        <component1 position="404.4326 23.0067 -165.7317" rotation="0.4569 5.5551 -0.0337"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="designMaterial" id="1"/>
+        <configuration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="designMaterial" id="1"/>
+        <washable>
+            <dirtNode amount="0.003083"/>
+            <dirtNode amount="0.003083"/>
+            <dirtNode amount="0.003083"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001156"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.000650"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.198590" g="0.138980" b="0.079410" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="34" modName="FS19_chainharrow" filename="$moddir$FS19_chainharrow/chainharrow.xml" isAbsolute="true" age="5.000000" price="1499.000000" farmId="1" propertyState="1" operatingTime="664.045959">
+        <component1 position="-113.5890 25.7768 242.4548" rotation="175.3236 -15.3383 -176.0928"/>
+        <component2 position="-113.5890 25.7762 242.4547" rotation="175.2923 -15.3336 -176.0721"/>
+        <component3 position="-113.5890 25.7759 242.4546" rotation="175.2907 -15.3434 -176.1177"/>
+        <configuration name="baseMaterial" id="1"/>
+        <configuration name="folding" id="1"/>
+        <configuration name="designMaterial" id="1"/>
+        <boughtConfiguration name="designMaterial" id="1"/>
+        <boughtConfiguration name="folding" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <washable>
+            <dirtNode amount="0.006014"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.002275"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.005534"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.198590" g="0.138980" b="0.079410" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="35" modName="FS19_Pielnik" filename="$moddir$FS19_Pielnik/Pielnik.xml" isAbsolute="true" age="5.000000" price="1000.000000" farmId="1" propertyState="1" operatingTime="141.579025">
+        <component1 position="408.3412 23.3235 -167.0188" rotation="0.6763 -3.6654 0.1818"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <washable>
+            <dirtNode amount="0.004303"/>
+            <dirtNode amount="0.004303"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001612"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.001180"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.198590" g="0.138980" b="0.079410" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="36" modName="FS19_SIPFavorit220" filename="$moddir$FS19_SIPFavorit220/sipFavorit220.xml" isAbsolute="true" age="5.000000" price="4000.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-84.9825 27.7547 95.3928" rotation="-178.4343 -88.3678 177.1599"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <washable>
+            <dirtNode amount="0.000486"/>
+            <dirtNode amount="0.000486"/>
+            <dirtNode amount="0.000486"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000182"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.000000"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.198590" g="0.138980" b="0.079410" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="37" modName="FS19_SIPFavorit220" filename="$moddir$FS19_SIPFavorit220/sipFavorit220WindrowerFlap.xml" isAbsolute="true" age="5.000000" price="100.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-84.9871 26.8882 96.3071" rotation="-168.0064 -31.8736 158.0846"/>
+        <washable>
+            <dirtNode amount="0.000550"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000206"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <workMode state="1"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.000000"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.198590" g="0.138980" b="0.079410" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="38" modName="FS19_Horal_rozsdas" filename="$moddir$FS19_Horal_rozsdas/Horal_MV1052.xml" isAbsolute="true" age="5.000000" price="650.000000" farmId="1" propertyState="1" operatingTime="62.267517">
+        <component1 position="-813.9658 25.7410 -655.4802" rotation="128.7270 56.5229 135.2241"/>
+        <component2 position="-809.6616 26.8126 -657.1409" rotation="128.1554 56.1242 135.1438"/>
+        <configuration name="trailer" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.002220"/>
+            <dirtNode amount="0.002220"/>
+            <dirtNode amount="0.002220"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000832"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <bulkFill isEnabled="true" isSelectEnabled="true"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.000519"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.000000" g="0.000000" b="0.000000" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="39" modName="FS19_lizardWaterTrailer" filename="$moddir$FS19_lizardWaterTrailer/waterTrailer.xml" isAbsolute="true" age="5.000000" price="6300.000000" farmId="1" propertyState="1" operatingTime="588.078735">
+        <component1 position="-133.4641 23.1178 335.0682" rotation="-179.5960 -78.7307 179.9999"/>
+        <configuration name="rimColor" id="6"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="baseMaterial" id="6"/>
+        <boughtConfiguration name="rimColor" id="1"/>
+        <boughtConfiguration name="rimColor" id="6"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="6"/>
+        <washable>
+            <dirtNode amount="0.004229"/>
+            <dirtNode amount="0.004229"/>
+            <dirtNode amount="0.006285"/>
+            <dirtNode amount="0.004229"/>
+            <dirtNode amount="0.005599"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.001586"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <bulkFill isEnabled="true" isSelectEnabled="true"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.004901"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.198590" g="0.138980" b="0.079410" curIndex="0" prevIndex="0"/>
+            <wheel1 r="0.194360" g="0.135920" b="0.077640" curIndex="0" prevIndex="0"/>
+            <wheel2 r="0.129442" g="0.088958" b="0.050476" curIndex="0" prevIndex="0"/>
+            <wheel3 r="0.194360" g="0.135920" b="0.077640" curIndex="0" prevIndex="0"/>
+            <wheel4 r="0.141936" g="0.097997" b="0.055704" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="40" modName="FS19_FrontLifter" filename="$moddir$FS19_FrontLifter/FrontLifter.xml" isAbsolute="true" age="5.000000" price="2500.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-86.8359 27.7821 98.2865" rotation="-0.0007 84.6479 -0.0008"/>
+        <configuration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <washable>
+            <dirtNode amount="0.000375"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000141"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.000000"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.198590" g="0.138980" b="0.079410" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="41" modName="Don_1500_B_KR" filename="$moddir$Don_1500_B_KR/don1500.xml" isAbsolute="true" age="5.000000" price="15000.000000" farmId="1" propertyState="1" operatingTime="4089577472.000000">
+        <component1 position="-859.7651 21.7216 349.7202" rotation="-179.4511 79.8117 -161.3673"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="1.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+            <unit index="2" fillType="DIESEL" fillLevel="539.874817"/>
+        </fillUnit>
+        <drivable cruiseControl="33.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <pipe state="1"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="1.000000"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.000000" g="0.000000" b="0.000000" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="42" modName="FS19_1980_F800graintruck_KHM" filename="$moddir$FS19_1980_F800graintruck_KHM/S1900Grain.xml" isAbsolute="true" age="5.000000" price="8200.000000" farmId="1" propertyState="1" operatingTime="1758068736.000000">
+        <component1 position="-822.0328 26.4845 -719.6696" rotation="-32.4193 -37.5063 29.5611"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="baseMaterial" id="24"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="trailer" id="1"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="designMaterial" id="5"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="17"/>
+        <boughtConfiguration name="baseMaterial" id="24"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="designMaterial" id="5"/>
+        <boughtConfiguration name="designMaterial" id="16"/>
+        <washable>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+            <dirtNode amount="1.000000"/>
+        </washable>
+        <wearable>
+            <wearNode amount="1.000000"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+            <unit index="2" fillType="DIESEL" fillLevel="377.976135"/>
+            <unit index="3" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="83.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="1.000000"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.198943" g="0.139235" b="0.079558" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="43" modName="FS19_AC1300" filename="$moddir$FS19_AC1300/AC1300.xml" isAbsolute="true" age="5.000000" price="11000.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="814.5891 24.6666 -673.7599" rotation="178.1468 40.9052 163.1043"/>
+        <component2 position="813.2197 27.2012 -675.4463" rotation="139.0813 -1.4001 74.3233"/>
+        <component3 position="817.0684 26.0552 -671.9670" rotation="-139.0923 1.4102 -105.7036"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <washable>
+            <dirtNode amount="0.000106"/>
+            <dirtNode amount="0.000106"/>
+            <dirtNode amount="0.000106"/>
+            <dirtNode amount="0.000106"/>
+            <dirtNode amount="0.000106"/>
+            <dirtNode amount="0.000106"/>
+            <dirtNode amount="0.000106"/>
+            <dirtNode amount="0.000106"/>
+            <dirtNode amount="0.000106"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000011"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.000000"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.198590" g="0.138980" b="0.079410" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="44" filename="data/objects/pallets/eggBox/eggBox.xml" isAbsolute="true" age="5.000000" price="0.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="382.7527 22.9983 -117.6663" rotation="-1.1019 47.6301 -0.7889"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.000032"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000010"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="EGG" fillLevel="3.232008"/>
+        </fillUnit>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.416667" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.000000"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+    </vehicle>
+    <vehicle id="45" modName="EXP19_48_Chevy_GrainBed" filename="$moddir$EXP19_48_Chevy_GrainBed/CHEVY.xml" isAbsolute="true" age="0.000000" price="20500.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="14.2970 26.7668 -273.0503" rotation="-27.9246 -68.8162 27.4098"/>
+        <configuration name="baseMaterial" id="57"/>
+        <configuration name="trailer" id="1"/>
+        <configuration name="cover" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="designMaterial" id="32"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="cover" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="57"/>
+        <boughtConfiguration name="baseMaterial" id="41"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="designMaterial" id="32"/>
+        <boughtConfiguration name="designMaterial" id="41"/>
+        <washable>
+            <dirtNode amount="0.000014"/>
+            <dirtNode amount="0.000014"/>
+            <dirtNode amount="0.000014"/>
+            <dirtNode amount="0.000014"/>
+            <dirtNode amount="0.000014"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000005"/>
+        </wearable>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+            <unit index="2" fillType="DIESEL" fillLevel="80.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="100.000000"/>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <cover state="0"/>
+        <bulkFill isEnabled="true" isSelectEnabled="true"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.000000" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.000000"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.198590" g="0.138980" b="0.079410" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <vehicle id="46" modName="FS19_TajfunEGV80AHK" filename="$moddir$FS19_TajfunEGV80AHK/tajfunEGV80AHK.xml" isAbsolute="true" age="0.000000" price="4500.000000" farmId="1" propertyState="1" operatingTime="0.000000">
+        <component1 position="-34.0125 23.4410 -218.8772" rotation="-179.8528 -70.7122 179.9999"/>
+        <washable>
+            <dirtNode amount="0.000106"/>
+        </washable>
+        <wearable>
+            <wearNode amount="0.000040"/>
+        </wearable>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="1.000000"/>
+        <FS19_RM_Seasons>
+            <seasonsVehicle years="0.000000" nextRepair="108000.000000"/>
+            <ageWear lastRepaintOperatingTime="0.000000">
+                <scratchNode amount="0.000000"/>
+            </ageWear>
+        </FS19_RM_Seasons>
+        <realDirtColor>
+            <body r="0.198590" g="0.138980" b="0.079410" curIndex="0" prevIndex="0"/>
+        </realDirtColor>
+        <MountableAttacher attacherMounted="false"/>
+    </vehicle>
+    <attachments rootVehicleId="2">
+        <attachment attachmentId="16" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="3">
+        <attachment attachmentId="19" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="5">
+        <attachment attachmentId="20" inputJointDescIndex="1" jointIndex="5" moveDown="false"/>
+        <attachment attachmentId="26" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="6">
+        <attachment attachmentId="11" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="7">
+        <attachment attachmentId="8" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="16">
+        <attachment attachmentId="18" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="20">
+        <attachment attachmentId="21" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="24">
+        <attachment attachmentId="7" inputJointDescIndex="1" jointIndex="2" moveDown="false"/>
+    </attachments>
+</vehicles>

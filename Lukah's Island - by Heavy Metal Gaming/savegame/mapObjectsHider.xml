@@ -1,0 +1,7 @@
+﻿<mapObjectsHider revision="1" md5="true">
+    <hiddenObjects>
+        <object name="vehicleShopTrigger" index="4|0|3" hash="baf0723606b49f553c2f64c9429aaa1e" date="01/08/2021" time="21:20:10" player="Lukah" timestamp="85180810">
+            <collision name="vehicleShopTrigger" index="4|0|3" rigidBodyType="Static"/>
+        </object>
+    </hiddenObjects>
+</mapObjectsHider>
