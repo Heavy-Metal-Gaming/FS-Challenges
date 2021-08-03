@@ -28,6 +28,7 @@ Process a minmum of 300 trees into lumber at the sawmill
 5. Equipment will be scattered and hidden throughout the island. None of it will show on the map, yet you'll be able to use it. Some of the equipment will need to be repaired before it can be used, other pieces not.
 6. No super strength.
 7. No workers
+-- 7a. Optional: Instead of No Workers, you may hire up to 3 workers and go for the multiplayer goals.
 8. MP version of challenge limited to 4 players, but works best with just 2.
 9. Cannot change settings to turn visibility of equipment back on
 
