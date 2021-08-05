@@ -41,5 +41,5 @@ Must have harvested at least 7 times with different crops
 Any, self setup
 
 ## Credits
-Challenge: [Worco Entertainment](https://www.youtube.com/channel/UCXC4lMXUv_1b-I6E0pKbkOg)
+Challenge: [Worco Entertainment](https://www.youtube.com/channel/UCXC4lMXUv_1b-I6E0pKbkOg)  
 -- Worco has a [video](https://www.youtube.com/watch?v=RmCcrt-ftRQ) about this challenge
