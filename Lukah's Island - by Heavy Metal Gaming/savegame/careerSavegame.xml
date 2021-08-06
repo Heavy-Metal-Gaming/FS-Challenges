@@ -1,9 +1,9 @@
 ﻿<careerSavegame revision="2" valid="true">
     <settings>
-        <savegameName>LukahsChallenge</savegameName>
+        <savegameName>Lukahs Challenge</savegameName>
         <mapId>FS19_Lukahs_Island.SampleModMap</mapId>
         <mapTitle>Welcome To Lukah's Island</mapTitle>
-        <saveDate>2021-08-02</saveDate>
+        <saveDate>2021-08-05</saveDate>
         <playerModelIndex>1</playerModelIndex>
         <playerColorIndex>16</playerColorIndex>
         <playerBodyIndex>1</playerBodyIndex>
@@ -11,13 +11,13 @@
         <playerAccessoryIndex>1</playerAccessoryIndex>
         <playerHairIndex>3</playerHairIndex>
         <playerJacketIndex>0</playerJacketIndex>
-        <playerName>Lukah</playerName>
+        <playerName>Survivor</playerName>
         <resetVehicles>false</resetVehicles>
-        <isPlantWitheringEnabled>false</isPlantWitheringEnabled>
+        <isPlantWitheringEnabled>true</isPlantWitheringEnabled>
         <trafficEnabled>true</trafficEnabled>
         <stopAndGoBraking>false</stopAndGoBraking>
         <automaticMotorStartEnabled>false</automaticMotorStartEnabled>
-        <fruitDestruction>true</fruitDestruction>
+        <fruitDestruction>false</fruitDestruction>
         <plowingRequiredEnabled>true</plowingRequiredEnabled>
         <weedsEnabled>true</weedsEnabled>
         <limeRequired>true</limeRequired>
@@ -48,8 +48,8 @@
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>283</money>
-        <playTime>273.627502</playTime>
+        <money>499827226</money>
+        <playTime>49.730522</playTime>
     </statistics>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>
@@ -60,6 +60,7 @@
     <mod modName="FS19_MapObjectsHider" title="Map Objects Hider" version="1.2.0.0" required="false" fileHash="d0047a323bc1b038bb0277421bbdf900"/>
     <mod modName="FS19_logCabinFarmersHouse" title="Log Cabin" version="1.0.0.0" required="false" fileHash="816a93a950f615932979c01943c705b0"/>
     <mod modName="FS19_HeapInfo" title="Heap Info" version="1.1.1.0" required="false" fileHash="e465b82ed0f96024de1c4748376340bf"/>
+    <mod modName="FS19_RealMower" title="Real Mower" version="1.0.0.0" required="false" fileHash="321c27f2ea8915c0b7fcaa74ef946944"/>
     <mod modName="FS19_PolishPlowsPack" title="Polish Plows Pack" version="1.2.0.0" required="false" fileHash="608da99e29da0b6c8027b03459e0cfbb"/>
     <mod modName="FS19_workshopTabber" title="Workshop Tabber" version="1.1.0.0" required="false" fileHash="65bef590bbcaafae3839b71dad3241e3"/>
     <mod modName="FS19_Pack_seed_fertilizer" title="Seeds And Fertilizers Mini Silos" version="1.0.0.0" required="false" fileHash="19c177bbb4c973d495cd57a96b627371"/>
@@ -72,11 +73,13 @@
     <mod modName="FS19_JohnDeere690" title="John Deere 690" version="1.0.0.0" required="false" fileHash="bfbd53c21301dea8c5a645b979bd86c2"/>
     <mod modName="FS19_lizardWaterTrailer" title="Water Trailer" version="1.0.0.0" required="false" fileHash="9eb91f619b1525f989ac12632ae2588e"/>
     <mod modName="FS19_TipSideHUD" title="Tip Side HUD" version="1.0.0.5" required="false" fileHash="34ce66a967977ef756452f9410b75e28"/>
+    <mod modName="FS19_ulep" title="One Axle Trailer" version="1.1.0.0" required="false" fileHash="de136f719f2143d4b06557071c500642"/>
     <mod modName="FS19_Used_Oliver_2255_MFWD" title="Used Oliver 2255 4x4 MFWD 4WD" version="1.1.0.0" required="false" fileHash="cd92f0730e99ef21511212a068581e95"/>
-    <mod modName="FS19_Lime_Station_Placeable" title="Lime Station" version="1.1.0.0" required="false" fileHash="b201889db1ff0e3b6110c4ed8ea6baac"/>
+    <mod modName="TSX_EnhancedVehicle" title="EnhancedVehicle" version="1.6.4.1" required="false" fileHash="e5a7e1fd96f1223e6aa728486189ee54"/>
+    <mod modName="FS19_holmerPack" title="HOLMER Terra Variant DLC" version="1.0.2.0" required="false" fileHash="3266b9e838b49100e8b3610fb07ea808"/>
     <mod modName="FS19_additionalFieldInfo" title="Additional Field Info" version="1.0.2.3" required="false" fileHash="dbc0ee7e6f8aed2a492cfa4a029c03f1"/>
-    <mod modName="FS19_amazoneD8_60" title="Amazone D8 60" version="1.2.0.0" required="false" fileHash="62d408a1fee3b4f7db408f98046dbb09"/>
-    <mod modName="FS19_SIPFavorit220" title="SIP Favorit 220" version="1.0.0.1" required="false" fileHash="ff050322d03c26318dc08ea8486b67bf"/>
+    <mod modName="FS19_LumberJack" title="LumberJack" version="2.0.2.0" required="false" fileHash="b19496bf54c915ef928a469c7a2b90df"/>
+    <mod modName="FS19_InfoDisplay" title="Info Display" version="1.1.0.0" required="false" fileHash="59748c7f5926827c5aeab40e6b5b9c77"/>
     <mod modName="FS19_HTZ_T150" title="HTZ T-150" version="1.3.2.2" required="false" fileHash="369064bfa464fa1ef72a481cd5250bb0"/>
     <mod modName="FS19_PlayerPositionSaver" title="Player Position Saver" version="1.0.0.0" required="false" fileHash="9bccb8fce85c6849380d3fa6ebcc859a"/>
     <mod modName="EXP19_48_Chevy_GrainBed" title="EXP19 48 Chevy GrainBed" version="0.2.0.0" required="false" fileHash="0714c8ebfda79c0ce00382c23990b288"/>
@@ -85,47 +88,49 @@
     <mod modName="FS19_UniversalPassenger_VehiclesOfModHub" title="Universal Passenger - Vehicles Of ModHub" version="1.1.0.0" required="false" fileHash="c3e4aa1f952f3fa566115dd3722b9b9f"/>
     <mod modName="FS19_MX_Frontloaders_And_Tools_Pack" title="MX Frontloaders And Tools Pack" version="1.1.0.0" required="false" fileHash="1eff58c2158ab6f1362a3fb4e8de2a2a"/>
     <mod modName="FS19_BulkFill" title="Bulk Fill" version="1.0.0.0" required="false" fileHash="87c199a4d95f4c5a30d15e2634581892"/>
+    <mod modName="FS19_Rz3" title="RZ 3m" version="1.0.0.0" required="false" fileHash="28eca61e55a708a409dbcbc958cb34d6"/>
+    <mod modName="FS19_MTZ_80XM" title="MTZ-80CM" version="1.0.0.1" required="false" fileHash="a6fa33bdd689080f3b25b80788b06630"/>
     <mod modName="CSS_JohnDeere_80_series_old" title="John Deere 80 820 830" version="1.1.0.0" required="false" fileHash="e6c513b63b7c8eb95204d546687986ce"/>
     <mod modName="FS19_UniversalPassenger" title="Universal Passenger" version="1.1.0.1" required="false" fileHash="0787e0a3fc46c530ad132c8c6c97b76e"/>
     <mod modName="FS19_Brazilian_Dairy_Sheep" title="Dairy Sheep" version="1.0.0.0" required="false" fileHash="e64b4fc3f43341cbb7cf0aad199d7e10"/>
-    <mod modName="FS19_GlobalCompany" title="GlobalCompany" version="1.7.1.0" required="false" fileHash="bc88426351a1acf40c14d5e1edb744d0"/>
+    <mod modName="Chevrolet_COE_1941" title="Chevrolet COE 1941" version="1.0.0.0" required="false" fileHash="3c9bd564b49168fc5258755be84140d8"/>
     <mod modName="FS19_barrelWeight600kg" title="Barrel Weight" version="1.0.0.0" required="false" fileHash="5d7769cb7edb2df26a1655f922854eca"/>
-    <mod modName="FS19_ToolsCombo" title="Tools Combo" version="1.0.0.0" required="false" fileHash="67b3507cab395a1f81928caddd7156da"/>
     <mod modName="Fs19_SPC4" title="1SPC 6" version="1.0.0.0" required="false" fileHash="db9aad87a46a090d379afa41696819e7"/>
     <mod modName="FS19_Pielnik" title="Weeder" version="1.0.0.1" required="false" fileHash="ccb3f393c149b144c4e3b911b87b9ead"/>
+    <mod modName="FS19_multiRootHarvester" title="Root Harvester Pack Grimme SE 260 Used" version="0.8.0.0" required="false" fileHash="4619482582b5f3dfbc19ae5b3631fbcd"/>
+    <mod modName="FS19_realDirtFix" title="Real Dirt Fix" version="1.1.0.0" required="false" fileHash="f835fe69bf0a8d90678df6bb95c70786"/>
     <mod modName="FS19_AC1300" title="Allis Chalmers 1300 Field Cultivator" version="1.0.0.0" required="false" fileHash="c82f414056ad3931cef99e80ce8cf44f"/>
-    <mod modName="FS19_Lukahs_Island" title="Lukah&apos;s Island" version="1.0.0.0" required="true" fileHash="bc7e05de8b148798026323c2a773b7d0"/>
+    <mod modName="FS19_Lukahs_Island" title="Lukah&apos;s Island" version="1.1.0.0" required="true" fileHash="832e009fcba56eeb54563f674b41ad96"/>
+    <mod modName="FS19_ToolsCombo" title="Tools Combo" version="1.0.0.0" required="false" fileHash="67b3507cab395a1f81928caddd7156da"/>
     <mod modName="FS19_storeDeliveries" title="Store Deliveries" version="1.0.0.0" required="false" fileHash="59c2938baf82e7842888381f5c9b50be"/>
     <mod modName="FS19_RealSeedsUsage" title="Real Seeds Usage" version="1.1.0.0" required="false" fileHash="ed5c686580e1045d909fbe19261bebf3"/>
-    <mod modName="FS19_RealMower" title="Real Mower" version="1.0.0.0" required="false" fileHash="321c27f2ea8915c0b7fcaa74ef946944"/>
-    <mod modName="FS19_realDirtFix" title="Real Dirt Fix" version="1.1.0.0" required="false" fileHash="f835fe69bf0a8d90678df6bb95c70786"/>
     <mod modName="FS19_realDirtColor" title="Real Dirt Color" version="1.2.0.0" required="false" fileHash="16baf03c0d14079ed5269b2a71c52d3f"/>
     <mod modName="FS19_noTeleport" title="No Teleport" version="1.0.0.0" required="false" fileHash="e1ec323e5697d9284c61bc83568948ae"/>
-    <mod modName="FS19_hudSmartShade" title="HUD Smart Shade" version="1.6.0.0" required="false" fileHash="cb0116375d9741f5293ce0a305ee6ec4"/>
-    <mod modName="FS19_MMG1355s" title="1972 Minneapoilis Moline" version="1.1.0.0" required="false" fileHash="090d042a22c53d2be79e80b070dd99db"/>
-    <mod modName="FS19_LumberJack" title="LumberJack" version="2.0.2.0" required="false" fileHash="b19496bf54c915ef928a469c7a2b90df"/>
-    <mod modName="FS19_InfoDisplay" title="Info Display" version="1.1.0.0" required="false" fileHash="59748c7f5926827c5aeab40e6b5b9c77"/>
     <mod modName="FS19_AnimalScreenExtended" title="Animal Screen Extended" version="1.1.0.0" required="false" fileHash="f0ba3061b1aa3b437b8a7b7f563ea6c0"/>
     <mod modName="FS19_HerbicideTank" title="Herbicide Tanks" version="1.0.0.0" required="false" fileHash="d8c094bb975c69227ca1e7ff69c14e96"/>
+    <mod modName="FS19_MMG1355s" title="1972 Minneapoilis Moline" version="1.1.0.0" required="false" fileHash="090d042a22c53d2be79e80b070dd99db"/>
     <mod modName="FS19_Oliver_HG" title="Oliver HG" version="2.0.0.0" required="false" fileHash="03756738b8085b13542afdfda5aee9e0"/>
     <mod modName="FS19_AdditionalGameSettings" title="Additional Game Settings" version="1.1.0.1" required="false" fileHash="643c296386dfb446b11fd43f0fd6472b"/>
     <mod modName="FS19_FrontLifter" title="Front Lifter" version="1.0.0.0" required="false" fileHash="6bd9d88836e2195ae6d02e05a5d01298"/>
     <mod modName="FS19_FilllevelWarning" title="Filllevel Warning" version="1.0.0.2" required="false" fileHash="56e82279df6d120afcf0fb049b23418f"/>
     <mod modName="FS19_GlobalCompanyAddOn_Icons" title="GlobalCompany Addon Icons" version="1.2.0.0" required="false" fileHash="6375235e5bbb724b0219e106af00446a"/>
-    <mod modName="FS19_holmerPack" title="HOLMER Terra Variant DLC" version="1.0.2.0" required="false" fileHash="3266b9e838b49100e8b3610fb07ea808"/>
-    <mod modName="FS19_Farm_Trailer" title="4x4 Farm Trailer" version="1.1.0.0" required="false" fileHash="d0b570b316da687aec3cf6fbb50a591e"/>
+    <mod modName="FS19_GlobalCompany" title="GlobalCompany" version="1.7.1.0" required="false" fileHash="bc88426351a1acf40c14d5e1edb744d0"/>
+    <mod modName="FS19_TrailedLifter" title="Trailed Lifter" version="1.0.0.0" required="false" fileHash="60baca8f2fb7200dae2998e272576bb8"/>
     <mod modName="FS19_Oliver55" title="Oliver Pack" version="2.03.7" required="false" fileHash="187b1b13c37dd3a2dc8846e68cfe910d"/>
     <mod modName="FS19_JohnDeere_4020" title="John Deere 4020" version="1.2.0.0" required="false" fileHash="17c1ccf1468b71e684cca1aa5e694bcb"/>
-    <mod modName="FS19_TrailedLifter" title="Trailed Lifter" version="1.0.0.0" required="false" fileHash="60baca8f2fb7200dae2998e272576bb8"/>
     <mod modName="FS19_EicherAG300" title="Eicher AG300" version="1.0.0.0" required="false" fileHash="0207acb10e830ad0c2081c41e5036be0"/>
-    <mod modName="FS19_chainharrow" title="Chain Harrow" version="1.0.1.0" required="false" fileHash="910724bed0f27a9353c4fb370013da42"/>
-    <mod modName="FS19_BulkBuy" title="Bulk Buy" version="1.0.2.0" required="false" fileHash="bbc56d72ad92555a8be08f7c6b4c27f1"/>
-    <mod modName="FS19_OP2000" title="OP2000" version="1.0.0.0" required="false" fileHash="7283ca6c2e2e4e4ea4272a78c507730b"/>
-    <mod modName="FS19_ulep" title="One Axle Trailer" version="1.1.0.0" required="false" fileHash="de136f719f2143d4b06557071c500642"/>
-    <mod modName="FS19_TajfunEGV80AHK" title="Tajfun EGV 80 AHK" version="1.0.0.0" required="false" fileHash="550c13b1f5079bfc65b1d60dc669c304"/>
-    <mod modName="fs19_McCormick_Deering_15_30_early" title="McCORMICK-DEERING 15-30 steel" version="1.0.0.0" required="false" fileHash="8aa5d6f9238ea4c9a433859efba3c59b"/>
     <mod modName="FS19_2PTS_6A" title="2PTS-6A" version="1.0.0.1" required="false" fileHash="b1e688ab563b2b17f51de3cbe0aeea12"/>
+    <mod modName="FS19_SIPFavorit220" title="SIP Favorit 220" version="1.0.0.1" required="false" fileHash="ff050322d03c26318dc08ea8486b67bf"/>
+    <mod modName="FS19_amazoneD8_60" title="Amazone D8 60" version="1.2.0.0" required="false" fileHash="62d408a1fee3b4f7db408f98046dbb09"/>
+    <mod modName="FS19_BulkBuy" title="Bulk Buy" version="1.0.2.0" required="false" fileHash="bbc56d72ad92555a8be08f7c6b4c27f1"/>
+    <mod modName="FS19_chainharrow" title="Chain Harrow" version="1.0.1.0" required="false" fileHash="910724bed0f27a9353c4fb370013da42"/>
+    <mod modName="FS19_Farm_Trailer" title="4x4 Farm Trailer" version="1.1.0.0" required="false" fileHash="d0b570b316da687aec3cf6fbb50a591e"/>
+    <mod modName="FS19_Lime_Station_Placeable" title="Lime Station" version="1.1.0.0" required="false" fileHash="b201889db1ff0e3b6110c4ed8ea6baac"/>
+    <mod modName="FS19_HMP_18" title="HMP 1.8" version="1.0.0.0" required="false" fileHash="b83604c1abc936539539a4f80034f05c"/>
+    <mod modName="FS19_OP2000" title="OP2000" version="1.0.0.0" required="false" fileHash="7283ca6c2e2e4e4ea4272a78c507730b"/>
+    <mod modName="fs19_McCormick_Deering_15_30_early" title="McCORMICK-DEERING 15-30 steel" version="1.0.0.0" required="false" fileHash="8aa5d6f9238ea4c9a433859efba3c59b"/>
+    <mod modName="FS19_TajfunEGV80AHK" title="Tajfun EGV 80 AHK" version="1.0.0.0" required="false" fileHash="550c13b1f5079bfc65b1d60dc669c304"/>
     <mod modName="FS19_Isaria6000S" title="Isaria 6000/S 3m" version="1.0.0.0" required="false" fileHash="07dbb7b3ac71e4be07c94d1fac28214f"/>
     <mod modName="FS19_1980_F800graintruck_KHM" title="Ford F800 Grain" version="1.0.0.0" required="false" fileHash="f7debc9c036e47be9a0510f3d0860980"/>
-    <mod modName="Chevrolet_COE_1941" title="Chevrolet COE 1941" version="1.0.0.0" required="false" fileHash="3c9bd564b49168fc5258755be84140d8"/>
+    <mod modName="FS19_hudSmartShade" title="HUD Smart Shade" version="1.6.0.0" required="false" fileHash="cb0116375d9741f5293ce0a305ee6ec4"/>
 </careerSavegame>

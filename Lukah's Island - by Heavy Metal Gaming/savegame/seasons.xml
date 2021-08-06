@@ -4,16 +4,16 @@
         <daysPerSeason>9</daysPerSeason>
         <snow height="-4.020000" mode="3"/>
     </environment>
-    <weather timeSinceLastRain="2113">
+    <weather timeSinceLastRain="2159">
         <soilTemp>20.553724</soilTemp>
         <soilTempMax>22.780001</soilTempMax>
         <highTempPrev>26.195679</highTempPrev>
-        <cropMoistureContent>15.583104</cropMoistureContent>
-        <soilWaterContent>0.076396</soilWaterContent>
+        <cropMoistureContent>15.853044</cropMoistureContent>
+        <soilWaterContent>0.076236</soilWaterContent>
         <lowAirTemp>0.000000</lowAirTemp>
-        <snowDepth>-31.036140</snowDepth>
-        <rotDryFactor>-7.185046</rotDryFactor>
-        <averageSoilWaterContent>0.120018</averageSoilWaterContent>
+        <snowDepth>-31.115961</snowDepth>
+        <rotDryFactor>-7.733704</rotDryFactor>
+        <averageSoilWaterContent>0.119815</averageSoilWaterContent>
         <moistureEnabled>true</moistureEnabled>
         <events>
             <event startDay="6" endDay="6" startTime="3.933500" endTime="8.464200" weatherType="0">
@@ -37,42 +37,42 @@
                 <temperature indication="24.399687"/>
                 <n>0.310240</n>
             </event>
-            <event startDay="6" endDay="6" startTime="16.735701" endTime="20.653500" weatherType="0">
+            <event startDay="6" endDay="6" startTime="16.735701" endTime="20.653400" weatherType="0">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.246343" typeTo="0.138175" coverage="0.221080" cirrusDensityScale="0.552700" cirrusSpeedFactor="0.531469"/>
                 <wind dirX="0.077279" dirZ="0.997009" velocity="8.314692"/>
                 <temperature indication="22.696619"/>
                 <n>0.134190</n>
             </event>
-            <event startDay="6" endDay="7" startTime="20.653500" endTime="0.482700" weatherType="0">
+            <event startDay="6" endDay="7" startTime="20.653400" endTime="0.482600" weatherType="0">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.138175" typeTo="0.245481" coverage="0.392770" cirrusDensityScale="0.981924" cirrusSpeedFactor="0.586591"/>
                 <wind dirX="0.999531" dirZ="0.030630" velocity="8.865908"/>
                 <temperature indication="20.780510"/>
                 <n>0.312653</n>
             </event>
-            <event startDay="7" endDay="7" startTime="0.482700" endTime="5.063600" weatherType="1">
+            <event startDay="7" endDay="7" startTime="0.482600" endTime="5.063600" weatherType="1">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.245481" typeTo="0.443794" coverage="0.887587" cirrusDensityScale="0.168524" cirrusSpeedFactor="0.665549"/>
                 <wind dirX="0.078143" dirZ="0.996942" velocity="9.655490"/>
                 <temperature indication="17.230190"/>
                 <n>0.494427</n>
             </event>
-            <event startDay="7" endDay="7" startTime="5.063600" endTime="8.990800" weatherType="1">
+            <event startDay="7" endDay="7" startTime="5.063600" endTime="8.990400" weatherType="1">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.443794" typeTo="0.269963" coverage="0.539926" cirrusDensityScale="0.071179" cirrusSpeedFactor="0.670262"/>
                 <wind dirX="0.999998" dirZ="0.001768" velocity="9.702619"/>
                 <temperature indication="17.943098"/>
                 <n>0.786462</n>
             </event>
-            <event startDay="7" endDay="7" startTime="8.990800" endTime="9.990800" weatherType="1">
+            <event startDay="7" endDay="7" startTime="8.990400" endTime="9.990400" weatherType="1">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.269963" typeTo="0.440476" coverage="0.880952" cirrusDensityScale="0.166667" cirrusSpeedFactor="0.706721"/>
                 <wind dirX="-0.073162" dirZ="0.997320" velocity="10.067210"/>
                 <temperature indication="19.009947"/>
                 <n>0.500000</n>
             </event>
-            <event startDay="7" endDay="7" startTime="9.990800" endTime="13.124900" weatherType="2">
+            <event startDay="7" endDay="7" startTime="9.990400" endTime="13.124600" weatherType="2">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.269963" typeTo="0.715111" coverage="1.000000" cirrusDensityScale="0.120231" cirrusSpeedFactor="0.690137"/>
                 <wind dirX="-0.161648" dirZ="0.986849" velocity="9.901368"/>
@@ -80,35 +80,35 @@
                 <temperature indication="22.725019"/>
                 <n>0.159538</n>
             </event>
-            <event startDay="7" endDay="7" startTime="13.124900" endTime="14.124900" weatherType="1">
+            <event startDay="7" endDay="7" startTime="13.124600" endTime="14.124600" weatherType="1">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.715111" typeTo="0.440476" coverage="0.880952" cirrusDensityScale="0.166667" cirrusSpeedFactor="0.716658"/>
                 <wind dirX="0.968542" dirZ="-0.248850" velocity="10.166585"/>
                 <temperature indication="23.386280"/>
                 <n>0.500000</n>
             </event>
-            <event startDay="7" endDay="7" startTime="14.124900" endTime="18.184999" weatherType="1">
+            <event startDay="7" endDay="7" startTime="14.124600" endTime="18.184900" weatherType="1">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.440476" typeTo="0.483342" coverage="0.966683" cirrusDensityScale="0.190671" cirrusSpeedFactor="0.738492"/>
                 <wind dirX="-0.267065" dirZ="0.963679" velocity="10.384924"/>
                 <temperature indication="23.177092"/>
                 <n>0.427986</n>
             </event>
-            <event startDay="7" endDay="7" startTime="18.184999" endTime="22.285500" weatherType="1">
+            <event startDay="7" endDay="7" startTime="18.184900" endTime="22.285400" weatherType="1">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.483342" typeTo="0.363948" coverage="0.727897" cirrusDensityScale="0.123811" cirrusSpeedFactor="0.725531"/>
                 <wind dirX="0.948332" dirZ="-0.317278" velocity="10.255307"/>
                 <temperature indication="21.752234"/>
                 <n>0.628567</n>
             </event>
-            <event startDay="7" endDay="7" startTime="22.285500" endTime="23.285500" weatherType="1">
+            <event startDay="7" endDay="7" startTime="22.285400" endTime="23.285400" weatherType="1">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.363948" typeTo="0.440476" coverage="0.880952" cirrusDensityScale="0.166667" cirrusSpeedFactor="0.734355"/>
                 <wind dirX="-0.349012" dirZ="0.937118" velocity="10.343554"/>
                 <temperature indication="21.336300"/>
                 <n>0.500000</n>
             </event>
-            <event startDay="7" endDay="8" startTime="23.285500" endTime="2.750900" weatherType="2">
+            <event startDay="7" endDay="8" startTime="23.285400" endTime="2.750900" weatherType="2">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.363948" typeTo="0.500000" coverage="1.000000" cirrusDensityScale="0.038696" cirrusSpeedFactor="0.688652"/>
                 <wind dirX="-0.392141" dirZ="0.919905" velocity="9.886517"/>
@@ -116,7 +116,7 @@
                 <temperature indication="21.209812"/>
                 <n>0.322608</n>
             </event>
-            <event startDay="8" endDay="8" startTime="2.750900" endTime="6.019600" weatherType="2">
+            <event startDay="8" endDay="8" startTime="2.750900" endTime="6.019400" weatherType="2">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.500000" typeTo="0.500000" coverage="1.000000" cirrusDensityScale="0.021325" cirrusSpeedFactor="0.290985"/>
                 <wind dirX="0.916300" dirZ="-0.400492" velocity="5.909848"/>
@@ -124,28 +124,28 @@
                 <temperature indication="21.928148"/>
                 <n>0.357351</n>
             </event>
-            <event startDay="8" endDay="8" startTime="6.019600" endTime="7.019600" weatherType="1">
+            <event startDay="8" endDay="8" startTime="6.019400" endTime="7.019400" weatherType="1">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.500000" typeTo="0.440476" coverage="0.880952" cirrusDensityScale="0.166667" cirrusSpeedFactor="0.125012"/>
                 <wind dirX="-0.366001" dirZ="0.930615" velocity="4.250116"/>
                 <temperature indication="21.889008"/>
                 <n>0.500000</n>
             </event>
-            <event startDay="8" endDay="8" startTime="7.019600" endTime="11.648700" weatherType="1">
+            <event startDay="8" endDay="8" startTime="7.019400" endTime="11.648500" weatherType="1">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.440476" typeTo="0.324272" coverage="0.648543" cirrusDensityScale="0.101592" cirrusSpeedFactor="0.030405"/>
                 <wind dirX="0.910701" dirZ="-0.413065" velocity="3.304045"/>
                 <temperature indication="25.371746"/>
                 <n>0.695224</n>
             </event>
-            <event startDay="8" endDay="8" startTime="11.648700" endTime="15.179700" weatherType="1">
+            <event startDay="8" endDay="8" startTime="11.648500" endTime="15.179400" weatherType="1">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.324272" typeTo="0.407239" coverage="0.814478" cirrusDensityScale="0.148054" cirrusSpeedFactor="0.000000"/>
                 <wind dirX="-0.446015" dirZ="0.895025" velocity="2.756739"/>
                 <temperature indication="27.449633"/>
                 <n>0.555839</n>
             </event>
-            <event startDay="8" endDay="8" startTime="15.179700" endTime="18.894100" weatherType="1">
+            <event startDay="8" endDay="8" startTime="15.179400" endTime="18.894100" weatherType="1">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.407239" typeTo="0.490564" coverage="0.981128" cirrusDensityScale="0.194716" cirrusSpeedFactor="0.000000"/>
                 <wind dirX="0.910766" dirZ="-0.412922" velocity="2.483085"/>
@@ -159,7 +159,7 @@
                 <temperature indication="25.505114"/>
                 <n>0.500000</n>
             </event>
-            <event startDay="8" endDay="8" startTime="19.894100" endTime="22.904900" weatherType="2">
+            <event startDay="8" endDay="8" startTime="19.894100" endTime="22.904800" weatherType="2">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.490564" typeTo="0.860840" coverage="1.000000" cirrusDensityScale="0.161035" cirrusSpeedFactor="0.000000"/>
                 <wind dirX="-0.491776" dirZ="0.870722" velocity="2.346258"/>
@@ -167,7 +167,7 @@
                 <temperature indication="22.979803"/>
                 <n>0.077930</n>
             </event>
-            <event startDay="8" endDay="9" startTime="22.904900" endTime="2.861700" weatherType="2">
+            <event startDay="8" endDay="9" startTime="22.904800" endTime="2.861700" weatherType="2">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.860840" typeTo="0.940655" coverage="1.000000" cirrusDensityScale="0.183383" cirrusSpeedFactor="0.000000"/>
                 <wind dirX="0.876417" dirZ="-0.481553" velocity="2.277845"/>
@@ -175,42 +175,42 @@
                 <temperature indication="22.367893"/>
                 <n>0.033233</n>
             </event>
-            <event startDay="9" endDay="9" startTime="2.861700" endTime="3.861600" weatherType="1">
+            <event startDay="9" endDay="9" startTime="2.861700" endTime="3.861500" weatherType="1">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.940655" typeTo="0.440476" coverage="0.880952" cirrusDensityScale="0.166667" cirrusSpeedFactor="0.445004"/>
                 <wind dirX="-0.371131" dirZ="0.928580" velocity="7.450039"/>
                 <temperature indication="16.259224"/>
                 <n>0.500000</n>
             </event>
-            <event startDay="9" endDay="9" startTime="3.861600" endTime="8.210700" weatherType="0">
+            <event startDay="9" endDay="9" startTime="3.861500" endTime="8.210700" weatherType="0">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.440476" typeTo="0.136687" coverage="0.218700" cirrusDensityScale="0.546750" cirrusSpeedFactor="0.705951"/>
                 <wind dirX="0.956280" dirZ="-0.292454" velocity="10.059511"/>
                 <temperature indication="15.741963"/>
                 <n>0.181300</n>
             </event>
-            <event startDay="9" endDay="9" startTime="8.210700" endTime="12.146700" weatherType="0">
+            <event startDay="9" endDay="9" startTime="8.210700" endTime="12.146400" weatherType="0">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.136687" typeTo="0.163167" coverage="0.261067" cirrusDensityScale="0.652667" cirrusSpeedFactor="0.849354"/>
                 <wind dirX="-0.183924" dirZ="0.982940" velocity="11.493540"/>
                 <temperature indication="19.575024"/>
                 <n>0.608400</n>
             </event>
-            <event startDay="9" endDay="9" startTime="12.146700" endTime="16.424999" weatherType="0">
+            <event startDay="9" endDay="9" startTime="12.146400" endTime="16.424900" weatherType="0">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.163167" typeTo="0.179352" coverage="0.286963" cirrusDensityScale="0.717408" cirrusSpeedFactor="0.927529"/>
                 <wind dirX="0.984760" dirZ="-0.173919" velocity="12.275294"/>
                 <temperature indication="21.090530"/>
                 <n>0.569555</n>
             </event>
-            <event startDay="9" endDay="9" startTime="16.424999" endTime="22.077700" weatherType="0">
+            <event startDay="9" endDay="9" startTime="16.424900" endTime="22.077600" weatherType="0">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.179352" typeTo="0.227793" coverage="0.364469" cirrusDensityScale="0.911172" cirrusSpeedFactor="0.985994"/>
                 <wind dirX="-0.203806" dirZ="0.979011" velocity="12.859936"/>
                 <temperature indication="18.700045"/>
                 <n>0.453297</n>
             </event>
-            <event startDay="9" endDay="10" startTime="22.077700" endTime="1.731400" weatherType="0">
+            <event startDay="9" endDay="10" startTime="22.077600" endTime="1.731400" weatherType="0">
                 <fog scale="19.627733"/>
                 <clouds typeFrom="0.227793" typeTo="0.092591" coverage="0.148146" cirrusDensityScale="0.370364" cirrusSpeedFactor="0.961145"/>
                 <wind dirX="0.958188" dirZ="-0.286138" velocity="12.611448"/>
@@ -218,7 +218,7 @@
                 <n>0.777782</n>
             </event>
         </events>
-        <fog currentMieScale="17.437635" lastMieScale="17.173059" targetMieScale="19.627733" alpha="0.107784" duration="1800000.000000"/>
+        <fog currentMieScale="19.627733" lastMieScale="19.627733" targetMieScale="19.627733" alpha="1.000000" duration="1.000000"/>
         <prevHighTemp>30.247726</prevHighTemp>
         <forecast>
             <item day="16" season="1" averagePeriodTemp="30.521345" p="0.881535" startTimeIndication="8.029210" windSpeed="8.453276" windType="2" forecastType="0" cloudCover="0.000000" lowTemp="18.450346" highTemp="30.668083" tempUncertainty="0.144023" windUncertainty="-0.034626" precipitationUncertainty="0.490845" weatherTypeUncertainty="-0.255508"/>
@@ -233,29 +233,29 @@
     </weather>
     <growth>
         <fields>
-            <field id="1" fruitIndex="1"/>
-            <field id="2" fruitIndex="6"/>
-            <field id="3" fruitIndex="6"/>
-            <field id="4" fruitIndex="6"/>
-            <field id="5" fruitIndex="8"/>
-            <field id="6" fruitIndex="3"/>
-            <field id="7" fruitIndex="1"/>
-            <field id="8" fruitIndex="8"/>
-            <field id="9" fruitIndex="5"/>
-            <field id="10" fruitIndex="7"/>
-            <field id="11" fruitIndex="3"/>
-            <field id="12" fruitIndex="8"/>
-            <field id="13" fruitIndex="6"/>
-            <field id="14" fruitIndex="1"/>
-            <field id="15" fruitIndex="7"/>
-            <field id="16" fruitIndex="5"/>
+            <field id="1" fruitIndex="5"/>
+            <field id="2" fruitIndex="2"/>
+            <field id="3" fruitIndex="1"/>
+            <field id="4" fruitIndex="1"/>
+            <field id="5" fruitIndex="23"/>
+            <field id="6" fruitIndex="4"/>
+            <field id="7" fruitIndex="9"/>
+            <field id="8" fruitIndex="7"/>
+            <field id="9" fruitIndex="9"/>
+            <field id="10" fruitIndex="19"/>
+            <field id="11" fruitIndex="7"/>
+            <field id="12" fruitIndex="2"/>
+            <field id="13" fruitIndex="5"/>
+            <field id="14" fruitIndex="24"/>
+            <field id="15" fruitIndex="4"/>
+            <field id="16" fruitIndex="4"/>
             <field id="17" fruitIndex="6"/>
-            <field id="18" fruitIndex="6"/>
-            <field id="19" fruitIndex="2"/>
-            <field id="20" fruitIndex="6"/>
-            <field id="21" fruitIndex="5"/>
-            <field id="22" fruitIndex="7"/>
-            <field id="23" fruitIndex="5"/>
+            <field id="18" fruitIndex="21"/>
+            <field id="19" fruitIndex="7"/>
+            <field id="20" fruitIndex="9"/>
+            <field id="21" fruitIndex="19"/>
+            <field id="22" fruitIndex="21"/>
+            <field id="23" fruitIndex="1"/>
         </fields>
         <cpf>
             <weedsScale>20</weedsScale>
@@ -279,6 +279,14 @@
             <fruitIndex index="14" value="15"/>
             <fruitIndex index="15" value="16"/>
             <fruitIndex index="16" value="17"/>
+            <fruitIndex index="17" value="18"/>
+            <fruitIndex index="18" value="19"/>
+            <fruitIndex index="19" value="20"/>
+            <fruitIndex index="20" value="21"/>
+            <fruitIndex index="21" value="22"/>
+            <fruitIndex index="22" value="23"/>
+            <fruitIndex index="23" value="24"/>
+            <fruitIndex index="24" value="25"/>
         </cpf>
     </growth>
     <economy>
@@ -403,6 +411,30 @@
             <fill fillType="CHICKEN_TYPE_ROOSTER">
                 <values>2.0274073812697;2.0516048890573;2.075802396845;2.0999999046326;2.1866666475932;2.2733333905538;2.3600001335144;2.3800001144409;2.4000000953674;2.4200000762939;2.3600000540415;2.3000000317891;2.2400000095367;2.153333346049;2.0666666825612;1.9800000190735;1.9366666873296;1.8933333555858;1.8500000238419;1.8466666936875;1.843333363533;1.8400000333786;1.8400000333786;1.8400000333786;1.8400000333786;1.8400000333786;1.8400000333786;1.8400000333786;1.8266666928927;1.8133333524068;1.8000000119209;1.8200000127156;1.8400000135104;1.8600000143051;1.8600000143051;1.8600000143051</values>
             </fill>
+            <fill fillType="CARROT">
+                <values>209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349;209.99999344349</values>
+            </fill>
+            <fill fillType="ONION">
+                <values>215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628;215.00000357628</values>
+            </fill>
+            <fill fillType="COFFEE">
+                <values>870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;696.00001418591;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837;870.00000476837</values>
+            </fill>
+            <fill fillType="MUSTARD">
+                <values>490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674;490.00000953674</values>
+            </fill>
+            <fill fillType="MILLET">
+                <values>331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382;331.99998736382</values>
+            </fill>
+            <fill fillType="SORGHUM">
+                <values>379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163;379.99999523163</values>
+            </fill>
+            <fill fillType="RYE">
+                <values>351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265;351.99999809265</values>
+            </fill>
+            <fill fillType="RICE">
+                <values>284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372;284.99999642372</values>
+            </fill>
             <fill fillType="STRAWPELLETS">
                 <values>450;382.33909667121;314.67819334241;247.01729001362;245.3347234988;243.65215698398;241.96959046916;247.27443502241;252.57927957565;257.8841241289;253.27724525027;248.67036637165;244.06348749302;249.01258082401;253.961674155;258.91076748599;322.60717832399;386.303589162;450;450;450;450;450;450;450;450;450;450;450;450;450;450;450;450;450;450</values>
             </fill>
@@ -425,7 +457,8 @@
     </vehicle>
     <animals>
         <identifiers>
-            <type name="CHICKEN" next="9"/>
+            <type name="CHICKEN" next="22"/>
+            <type name="SHEEP" next="47"/>
         </identifiers>
     </animals>
 </seasons>

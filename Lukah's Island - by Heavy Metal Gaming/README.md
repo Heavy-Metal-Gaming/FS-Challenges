@@ -22,16 +22,19 @@ Process a minmum of 300 trees into lumber at the sawmill
 1. Only the provided (listed) mods are allowed.
 2. Must start from the provided save game.
 3. Store is hidden (can still be accessed from menu) because you're not allowed to purchase anything.
-4. Log cabin home can be purchased for $10,000. It is the only exception to the previous rule. However, it has conditions:
--- 4a. Must harvest and sell a minimum of 25 trees prior to purchasing the cabin. Lumberjack mod will be enabled for stump removal.
--- 4b. Must place it in a location that is not a numbered field or in the roadway.
-5. Equipment will be scattered and hidden throughout the island. None of it will show on the map, yet you'll be able to use it. Some of the equipment will need to be repaired before it can be used, other pieces not.
+4. Log cabin home can be purchased for $10,000. It is the only exception to the previous rule. However, it has conditions:  
+-- 4a. Must harvest and sell a minimum of 25 trees prior to purchasing the cabin. Lumberjack mod will be enabled for stump removal.  
+-- 4b. Must place it in a location that is not a numbered field or in the roadway.  
+5. Equipment will be scattered and hidden throughout the island. Some of the equipment will need to be repaired before it can be used, other pieces not.  
+-- 5a. The equipment is intended to be hidden. Must load another game first, and turn off all tractor, trailer, implement, harvester, etc... icons for player equipment in order to force the setting since it is shared
+ for all savegames. Once this is done, save and exit that game. Then you can load this game. Failure to do so defeats the purpos of the challenge.  
 6. No super strength.
-7. No workers
--- 7a. Instead of No Workers, you may hire up to 3 workers and go for the multiplayer goals.
--- 7b. You may do 7a by adding the [Contractor Mod](https://farming-simulator.com/mod.php?lang=en&country=fi&mod_id=108748) and setting it to have from 2-4 characters
+7. No workers  
+-- 7a. Instead of No Workers, you may hire up to 3 workers and go for the multiplayer goals.  
+-- 7b. You may do 7a by adding the [Contractor Mod](https://farming-simulator.com/mod.php?lang=en&country=fi&mod_id=108748) and setting it to have from 2-4 characters  
 8. MP version of challenge limited to 4 players, but works best with just 2.
 9. Cannot change settings to turn visibility of equipment back on
+10. Headers can only be used on the combine that they match, which should be easy to tell from the paint & style
 
 ## Background
 You're a survivor (or group of survivors in multiplayer) of a shipwreck.
@@ -116,7 +119,9 @@ Mods by a large number of people, see the credits on each mod on the Mod website
 [Allis Chalmers 1300 Field Cultivator](https://fs19.net/farming-simulator-2019-mods/implements-and-tools/cultivators-and-harrows/allis-chalmers-1300-field-cultivator-v-1-0/)  
 [Chevrolet COE 1941](https://fs19.net/farming-simulator-2019-mods/trucks/chevrolet-coe-1941-v1-0/)  
 [Don 1500B KP](https://fs19.net/farming-simulator-2019-mods/combines/don-1500b-kp-v1-1/)  
+[Enhanced Vehicles](https://fs19.net/farming-simulator-2019-mods/scripts/enhanced-vehicle-v1-0/)  
 [Ford F800 Grain Truck](https://fs19.net/farming-simulator-2019-mods/trucks/f800-grain-truck-v1-0/)  
+[Harsvester MTZ80 for Cotton](https://fs19.net/farming-simulator-2019-mods/trailers/harsvester-mtz80-for-cotton-v1-0/)  
 [HTZ T-150](https://fs19.net/farming-simulator-2019-mods/tractors/htz-t-150-v1-3-2-2/)  
 [John Deere 4020 EDIT](https://fs19.net/farming-simulator-2019-mods/tractors/john-deere-4020-edit-v1-0/)  
 [John Deere 80 Series](https://fs19.net/farming-simulator-2019-mods/tractors/john-deere-80-series-old-v-1-0/)  
@@ -126,4 +131,6 @@ Mods by a large number of people, see the credits on each mod on the Mod website
 [Oliver 55 Open Station](https://fs19.net/farming-simulator-2019-mods/tractors/oliver-55-open-station-v1-1/)  
 [Oliver Cletrac HG](https://fs19.net/farming-simulator-2019-mods/tractors/oliver-cletrac-hg-v2-0/)  
 [Old Horal MV1-052](https://fs19.net/farming-simulator-2019-mods/trailers/old-horal-mv1-052-v1-0/)  
+[ROOT HARVESTER PACK GRIMME SE 260](https://fs19.net/farming-simulator-2019-mods/packs/root-harvester-pack-grimme-se-260-v1-0/)  
+[RZ 3M](https://fs19.net/farming-simulator-2019-mods/implements-and-tools/mowers/rz-3m-v1-0/)  
 [SPC 4 Planter](https://fs19.net/farming-simulator-2019-mods/implements-and-tools/seeders/spc-4-v1-0/)  
