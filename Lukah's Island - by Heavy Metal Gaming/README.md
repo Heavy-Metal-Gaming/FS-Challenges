@@ -46,6 +46,14 @@ fields that have been growing random and wild with no one to maintain them.
 Additionally there are animals that have survived as well: sheep and
 chickens.
 
+## Equipment, and why is it such an eclectic mix?
+The previous inhabitants of the island purchased whatever they could get,
+from whomever would sell it to them. Equipment from the former Soviet Union,
+from Germany, from the USA, and from many others as well. Additionally, it
+has been collected for decades. A lot of the stuff dates back to World Warn II.
+Nothing is more modern than the 1980s as far as can be told from a cursory
+look around the island.
+
 ## Platform Support
 Computer Only, due to the mods used and being started from a savegame.
 
