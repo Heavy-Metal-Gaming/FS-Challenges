@@ -16,5 +16,5 @@ Nothing. Zero. Zilch. Nada.
 # Contributors
 [Dylan-M](https://github.com/Dylan-M) aka [Heavy Metal Gaming](https://studio.youtube.com/channel/UCFR1kTRqT_PrV97_sNCWHAA)  
 [Farmer Klein](https://www.youtube.com/channel/UCG6pGs10i8RA57go0BwvQKQ) --
-Giving credit since I added this challenge without his knowledge, but he created it - Dylan
+Giving credit since I added this challenge without his knowledge, but he created it - Dylan  
 [Worco Entertainment](https://www.youtube.com/channel/UCXC4lMXUv_1b-I6E0pKbkOg) 
