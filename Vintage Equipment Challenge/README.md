@@ -14,7 +14,7 @@ User Choice
 -   Starting funds $400,000
 -   Must purchase a minimum of 3 acres (1.2 hectares) starting land
 -   By end of first day, must own a sleeping place (tents etc are acceptable, a doormat sleep trigger is not)
--   Seasons, set to 4 days
+-   Seasons, set to 4 days per month
 -   Game speed set to 3x
 
 ## Rules
