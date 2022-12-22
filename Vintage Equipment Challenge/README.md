@@ -30,13 +30,13 @@ User Choice
 Have between 5 and 7 game years completed
 
 ### Bronze
-Normal Mode:  
+##### Normal Mode
 -   Finish with 2 million money
 -   Own a small or medium animal pen with at least 30 animals which have been owned for at least 2 seasons
 -   Have received at least 10,000 liters of product from your animals
 -   Have harvested all owned land at least three times
 -   Own at least 12 acres of land
-Hard Mode:  
+##### Hard Mode
 -   Finish with 1.5 million money
 -   Own a small or medium animal pen with at least 30 animals which have been owned for at least 2 seasons
 -   Have received at least 7,000 liters of product from your animals
@@ -44,13 +44,13 @@ Hard Mode:
 -   Own at least 12 acres of land
 
 ### Silver
-Normal Mode:  
+##### Normal Mode
 -   Finish with 5 million money
 -   Own a medium animal pen with at least 50 animals which have been owned for at least 2 seasons
 -   Have received at least 20,000 liters of product from your animals
 -   Have harvested all owned land at least three times
 -   Own at least 15 acres of land
-Hard Mode:  
+##### Hard Mode
 -   Finish with 3 million money
 -   Own a medium animal pen with at least 50 animals which have been owned for at least 2 seasons
 -   Have received at least 15,000 liters of product from your animals
@@ -58,13 +58,13 @@ Hard Mode:
 -   Own at least 15 acres of land
 
 ### Gold
-Normal Mode:  
+##### Normal Mode
 -   Finish with 10 million money
 -   Own an animal pen (or combination of pens) with at least 200 animals which have been owned for at least 2 seasons
 -   Have received at least 50,000 liters of product from your animals
 -   Have harvested all owned land at least three times
 -   Own at least 21 acres of land
-Hard Mode:  
+##### Hard Mode
 -   Finish with 8 million money
 -   Own an animal pen (or combination of pens) with at least 200 animals which have been owned for at least 2 seasons
 -   Have received at least 30,000 liters of product from your animals
@@ -72,13 +72,13 @@ Hard Mode:
 -   Own at least 21 acres of land
 
 ### Platinum
-Normal Mode:  
+##### Normal Mode
 -   Finish with 20 million money
 -   Own an animal pen (or combination of pens) with at least 400 animals which have been owned for at least 2 seasons
 -   Have received at least 100,000 liters of product from your animals
 -   Have harvested all owned land at least three times
 -   Own at least 30 acres of land
-Hard Mode:  
+##### Hard Mode
 -   Finish with 17 million money
 -   Own an animal pen (or combination of pens) with at least 400 animals which have been owned for at least 2 seasons
 -   Have received at least 70,000 liters of product from your animals
